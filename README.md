@@ -6,7 +6,7 @@
 Our objective is to use data collected regarding the conditions under which a coupon was either accepted or rejected by a survey-respondent to create a model to help determine whether a someone should be offered a coupon based on the likelihood that they accept it.
 
 ### Partners
-* [Leonid Shpaner](https://github.com/lshpaner)
+* [Isabella Oakes](https://github.com/isabellaoakes)
 * [Emanuel Lucban](https://github.com/zeegeeko)
 
 ### Methods
