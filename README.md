@@ -19,9 +19,10 @@ Our objective is to use data collected regarding the conditions under which a co
 * Data modeling metrics
 
 ### Technologies
-* Python
+* Python (Jupyter Notebooks)
 * Powerpoint
 * Word
+* Excel
 
 ## Project Description
 Data collected by a survey regarding the conditions under which someone either accepted or rejected a coupon were assessed and processed to create an optimal algorithm to determine whether a candidate should be offered a coupon in order to optimize coupon acceptance. 
