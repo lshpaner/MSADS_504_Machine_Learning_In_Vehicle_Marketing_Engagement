@@ -35,6 +35,6 @@ Data collected by a survey regarding the conditions under which someone either a
 * [Python Models File](https://github.com/lshpaner/MSADS_504_Machine_Learning_In_Vehicle_Marketing_Engagement/blob/main/Models.ipynb)
 
 ## Original Data
-[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)  
+* [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation)  
 
 * [Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/00603/in-vehicle-coupon-recommendation.csv)
