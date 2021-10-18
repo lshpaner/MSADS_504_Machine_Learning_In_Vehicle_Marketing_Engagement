@@ -5,7 +5,7 @@
 ![image](https://github.com/lshpaner/MSADS_504_Machine_Learning_In_Vehicle_Marketing_Engagement/blob/main/featured.jpg)
 
 ## Project Objective
-Our objective is to use data collected regarding the conditions under which a coupon was either accepted or rejected by a survey-respondent to create a model to help determine whether a someone should be offered a coupon based on the likelihood that they accept it.
+Our objective is to use data collected regarding the conditions under which a coupon was either accepted or rejected by a survey-respondent to create a model to help determine whether someone should be offered a coupon based on the likelihood that they accept it.
 
 ### Partners
 * [Isabella Oakes](https://github.com/isabellaoakes)
@@ -19,7 +19,7 @@ Our objective is to use data collected regarding the conditions under which a co
 * Data modeling metrics
 
 ### Technologies
-* Python (Jupyter Notebooks)
+* Python (Jupyter Notebook)
 * Powerpoint
 * Word
 * Excel
