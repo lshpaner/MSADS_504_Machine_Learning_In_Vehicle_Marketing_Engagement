@@ -28,7 +28,7 @@ Our objective is to use data collected regarding the conditions under which a co
 Data collected by a survey regarding the conditions under which someone either accepted or rejected a coupon were assessed and processed to create an optimal algorithm to determine whether a candidate should be offered a coupon in order to optimize coupon acceptance. 
 
 ## ROC Comparison for Models
-![image](https://user-images.githubusercontent.com/74040889/131297526-9f30ec80-d5e8-4799-bc44-feaad400a578.png)
+![image](https://github.com/lshpaner/MSADS_504_Machine_Learning_In_Vehicle_Marketing_Engagement/blob/main/images/ROC_Curves.svg)
 
 ## Presentations and projects
 * [Project Write-up](https://github.com/lshpaner/MSADS_504_Machine_Learning_In_Vehicle_Marketing_Engagement/blob/main/In_Vehicle_Coupon_Marketing.pdf)
